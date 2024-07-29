@@ -8,6 +8,7 @@
 .container {
     display: flex;
     height: 10%; 
+     width: 100%;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -17,6 +18,7 @@
   .containerf {
     display: flex;
     height: 35%; 
+       width: 100%;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
