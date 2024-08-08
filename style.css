@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+html {
+    height: 100%; 
+}
+
+body {
+    min-height: 100%;
+}
 .container {
     display: flex;
     height: 10%; 
