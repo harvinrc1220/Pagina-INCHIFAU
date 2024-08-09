@@ -43,6 +43,7 @@ body {
     width: 35px;
     text-align: right;
       float: right;
+      display: right;
   }
 
   .right1 {
