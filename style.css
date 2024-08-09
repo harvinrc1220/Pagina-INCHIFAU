@@ -42,6 +42,8 @@ body {
   .right {
     width: 30px;
     text-align: right;
+      display: flex;
+      flex-direction: row;
   }
 
   .right1 {
