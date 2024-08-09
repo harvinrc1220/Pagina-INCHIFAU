@@ -42,6 +42,7 @@ body {
   .right {
     width: 30%;
     text-align: right;
+      float: right;
   }
 
   .right1 {
