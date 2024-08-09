@@ -40,10 +40,8 @@ body {
   
   
   .right {
-    width: 30px;
+    width: 35%;
     text-align: right;
-      display: flex;
-      flex-direction: row;
   }
 
   .right1 {
