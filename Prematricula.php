@@ -116,7 +116,7 @@ input[type="submit"]:hover {
       <option value="Prematricula.html">Pre-matricula</option>
       <option value="Secciones.html">Secciones</option>
       <option value="Actividades.html">Actividades</option>
-      <option value="Index.html">Inicio</option>
+      <option value="index.html">Inicio</option>
       <option value="ayuda.html">Ayuda</option>
     </select>
   </div>
